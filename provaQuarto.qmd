@@ -3,7 +3,6 @@ title: "Untitled"
 author: "Marga"
 date: "13 de setembre"
 format: html
-toc: true
 editor: visual
 ---
 
